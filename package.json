@@ -41,7 +41,7 @@
 		"marked": "^4.2.4",
 		"obsidian-calendar-ui": "^0.3.12",
 		"obsidian-daily-notes-interface": "^0.9.4",
-		"rrule": "^2.7.0",
+		"rrule": "^2.8.1",
 		"server-destroy": "^1.0.1",
 		"svelte-multiselect": "^8.6.0",
 		"svelte-range-slider-pips": "^2.1.1",
