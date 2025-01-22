@@ -44,7 +44,7 @@
 		"rrule": "^2.7.0",
 		"server-destroy": "^1.0.1",
 		"svelte-multiselect": "^8.6.0",
-		"svelte-range-slider-pips": "^2.1.1",
+		"svelte-range-slider-pips": "^2.3.1",
 		"ts-treemap": "^1.1.0",
 		"turndown": "^7.1.2"
 	}
