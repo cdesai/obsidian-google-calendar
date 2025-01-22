@@ -35,7 +35,7 @@
 		"svelte"
 	],
 	"dependencies": {
-		"@popperjs/core": "^2.11.6",
+		"@popperjs/core": "^2.11.8",
 		"chrono-node": "^2.6.3",
 		"clipboardy": "^3.0.0",
 		"marked": "^4.2.4",
